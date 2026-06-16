@@ -6,4 +6,4 @@ Merge: the process of combining the changes from one branch into another branch.
 
 Reset vs Revert: Reset is danger, revert is safe
 
-Bad shit: it's shit but bad!
+Bad shit: it's shit but bad
